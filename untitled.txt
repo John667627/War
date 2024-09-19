@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Causes of War</title>
+</head>
+<body>
+
+    <header>
+        <h1>Causes of War</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Causes of War</a></li>
+                <li><a href="wars.html">Major Wars</a></li>
+                <li><a href="consequences.html">Consequences</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Political Causes</h2>
+        <p>Political disagreements have been one of the primary reasons for war, ranging from disputes over governance to conflicts over national borders and ideologies.</p>
+
+        <h2>Economic Causes</h2>
+        <p>Throughout history, many wars have been sparked by the desire to control resources, trade routes, and economic power.</p>
+
+        <h2>Social and Cultural Causes</h2>
+        <p>Ethnic conflicts, religious tensions, and cultural clashes have often played a central role in the outbreak of wars.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The History and Impact of War</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Causes of War</title>
+</head>
+<body>
+
+    <header>
+        <h1>Causes of War</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Causes of War</a></li>
+                <li><a href="wars.html">Major Wars</a></li>
+                <li><a href="consequences.html">Consequences</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Political Causes</h2>
+        <p>Political disagreements have been one of the primary reasons for war, ranging from disputes over governance to conflicts over national borders and ideologies.</p>
+
+        <h2>Economic Causes</h2>
+        <p>Throughout history, many wars have been sparked by the desire to control resources, trade routes, and economic power.</p>
+
+        <h2>Social and Cultural Causes</h2>
+        <p>Ethnic conflicts, religious tensions, and cultural clashes have often played a central role in the outbreak of wars.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The History and Impact of War</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Major Wars in History</title>
+</head>
+<body>
+
+    <header>
+        <h1>Major Wars in History</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Causes of War</a></li>
+                <li><a href="wars.html">Major Wars</a></li>
+                <li><a href="consequences.html">Consequences</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>World War I</h2>
+        <p>World War I (1914-1918) was one of the deadliest conflicts in human history, involving many of the world's great powers. It reshaped national boundaries and led to significant changes in global politics.</p>
+
+        <h2>World War II</h2>
+        <p>World War II (1939-1945) remains the most widespread and deadliest conflict in history, leading to the downfall of Nazi Germany and Imperial Japan, and significantly altering the political landscape of the 20th century.</p>
+
+        <h2>The Cold War</h2>
+        <p>The Cold War (1947-1991) was a prolonged period of political tension between the Soviet Union and the United States, marked by the threat of nuclear war and numerous proxy conflicts around the globe.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The History and Impact of War</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consequences of War</title>
+</head>
+<body>
+
+    <header>
+        <h1>Consequences of War</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Causes of War</a></li>
+                <li><a href="wars.html">Major Wars</a></li>
+                <li><a href="consequences.html">Consequences</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Economic Consequences</h2>
+        <p>War often leaves economies in shambles, leading to widespread poverty and infrastructure destruction, as well as long-term financial burdens from reconstruction efforts.</p>
+
+        <h2>Humanitarian Consequences</h2>
+        <p>Millions of lives are lost or displaced during war. Refugees are forced to flee their homes, while others suffer from lasting trauma due to the horrors they witnessed or endured.</p>
+
+        <h2>Technological Impact</h2>
+        <p>Although war brings devastation, it also drives technological innovation, especially in the fields of medicine, communication, and transportation.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The History and Impact of War</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media</title>
+</head>
+<body>
+
+    <header>
+        <h1>Media</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Causes of War</a></li>
+                <li><a href="wars.html">Major Wars</a></li>
+                <li><a href="consequences.html">Consequences</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Images from Historic Wars</h2>
+        <p>Include historic photos here.</p>
+
+        <h2>Documentaries and Videos</h2>
+        <p>Links to documentaries and war footage.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The History and Impact of War</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources</title>
+</head>
+<body>
+
+    <header>
+        <h1>Resources</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Causes of War</a></li>
+                <li><a href="wars.html">Major Wars</a></li>
+                <li><a href="consequences.html">Consequences</a></li
